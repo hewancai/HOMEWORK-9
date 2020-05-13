@@ -6,7 +6,7 @@
 
 ### 1、P3
 
-![image](image\P3.png)
+![image](image/P3.png)
 
   解：
 
@@ -26,7 +26,7 @@
 
 ### 2、P5
 
-![image](image\P5.png)
+![image](image/P5.png)
 
   解：
 
@@ -54,9 +54,9 @@
 
 ### 3、P7
 
-![image](image\P7.png)
+![image](image/P7.png)
 
-![image](image\P7.1.png)
+![image](image/P7.1.png)
 
   解：
 
